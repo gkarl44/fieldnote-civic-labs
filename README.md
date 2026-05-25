@@ -5,8 +5,8 @@ Static public web presence for Fieldnote Civic Labs, an independent civic techno
 ## Form-ready profile
 
 - Company name: Fieldnote Civic Labs
-- Website: https://fieldnoteciviclabs.com/
-- Business email: hello@fieldnoteciviclabs.com
+- Website: https://gkarl44.github.io/fieldnote-civic-labs/
+- Business email: Not configured yet
 - Job title: Founder or Principal Consultant
 - Industry: Technology, IT Services, Professional Services, or Consulting
 - Location: Vancouver, BC
@@ -18,7 +18,7 @@ This folder is plain static HTML and CSS. It can be published with GitHub Pages,
 For a fast setup:
 
 1. Register `fieldnoteciviclabs.com`.
-2. Create `hello@fieldnoteciviclabs.com` with your domain registrar, Google Workspace, Zoho Mail, Fastmail, or Cloudflare Email Routing.
+2. Create `hello@fieldnoteciviclabs.com` with your domain registrar, Google Workspace, Zoho Mail, Fastmail, or Cloudflare Email Routing before showing it on the live site.
 3. Deploy this folder as the site root.
 4. Point the domain DNS to the selected host.
 5. Update any temporary deployment URL in registration forms once the custom domain is live.
