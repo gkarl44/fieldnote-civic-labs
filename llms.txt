@@ -1,0 +1,33 @@
+# Fieldnote Civic Labs
+
+Fieldnote Civic Labs is a small independent civic technology and workflow research practice based in Vancouver, British Columbia.
+
+## What it does
+
+Fieldnote Civic Labs helps local organizations, civic actors, nonprofits, research teams, strata-adjacent groups, and small businesses turn scattered public records and document workflows into source-backed briefings, checklists, indexes, evidence maps, and lightweight tools a person can verify.
+
+## Core services
+
+- Public record briefings: source-linked summaries of official records and local datasets.
+- Policy and rule checks: structured review of procurement, bylaw, or internal policy scenarios with explicit inputs and reasons.
+- Document intake and evidence mapping: organization of files, transcripts, messages, exhibits, claims, and supporting records.
+- AI workflow reviews: narrow testing of where AI can help with summarizing, sorting, comparing, and review while keeping human judgment in place.
+- Audience and marketability research: continued research into public signals, peer examples, language patterns, objections, and positioning notes.
+
+## Working models
+
+- Civic Early Warning: address-specific monitoring of official municipal records, including building permit briefings.
+- Procurement Policy Checks: rule-backed workflow checks for policy requirements.
+- Evidence and Transcript Mapping: source-linked organization for document-heavy and dispute-adjacent work.
+- Document Intake and Sorting: local workflow tests for classifying and routing incoming files.
+- Marketing Research Agent: early workflow concept for continued marketability research and positioning support.
+
+## Boundaries
+
+The practice does not provide legal advice. Dispute-adjacent and tribunal-adjacent work is limited to evidence organization, source mapping, drafting support, and workflow design. AI is used inside bounded review steps and should not replace source retrieval, deterministic checks, or human judgment.
+
+## Contact
+
+Website: https://fieldnoteciviclabs.com/
+Email: info@fieldnoteciviclabs.com
+Location: Vancouver, BC

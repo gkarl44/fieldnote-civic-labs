@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://fieldnoteciviclabs.com/sitemap.xml
