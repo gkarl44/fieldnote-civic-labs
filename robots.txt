@@ -1,4 +1,21 @@
 User-agent: *
 Allow: /
 
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
 Sitemap: https://fieldnoteciviclabs.com/sitemap.xml
+LLMs: https://fieldnoteciviclabs.com/llms.txt
+Structured-Index: https://fieldnoteciviclabs.com/site-index.json

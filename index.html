@@ -3,68 +3,117 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Fieldnote Civic Labs | Source-backed civic workflow tools</title>
+    <title>Field Note Civic Labs | Practical AI help for records and workflows</title>
     <meta
       name="description"
-      content="Fieldnote Civic Labs builds source-backed civic workflow tools for public records, policy checks, document intake, evidence mapping, market research, and careful AI-assisted review."
+      content="Field Note Civic Labs helps people and small organizations turn scattered records, paperwork, and working knowledge into practical AI-ready workflows."
     >
-    <meta property="og:title" content="Fieldnote Civic Labs">
+    <meta property="og:title" content="Field Note Civic Labs">
     <meta
       property="og:description"
-      content="Source-backed civic tools for public records, documents, and careful AI workflows."
+      content="Practical help for scattered records, paperwork, and AI-ready workflows."
     >
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://fieldnoteciviclabs.com/">
     <link rel="canonical" href="https://fieldnoteciviclabs.com/">
+    <link rel="alternate" type="text/plain" href="https://fieldnoteciviclabs.com/llms.txt" title="AI-readable site summary">
+    <link rel="alternate" type="application/json" href="https://fieldnoteciviclabs.com/site-index.json" title="Structured site index">
     <link rel="stylesheet" href="./styles.css">
+    <meta name="fieldnote-analytics" content="enabled">
+    <script src="./analytics.js?v=20260610" defer></script>
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
-        "@type": "ProfessionalService",
-        "name": "Fieldnote Civic Labs",
-        "url": "https://fieldnoteciviclabs.com/",
-        "email": "info@fieldnoteciviclabs.com",
-        "description": "Fieldnote Civic Labs builds source-backed civic workflow tools for public records, policy checks, document intake, evidence mapping, market research, and careful AI-assisted review.",
-        "areaServed": {
-          "@type": "Place",
-          "name": "Vancouver, British Columbia"
-        },
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Vancouver",
-          "addressRegion": "BC",
-          "addressCountry": "CA"
-        },
-        "knowsAbout": [
-          "Civic technology",
-          "Public record briefings",
-          "Policy checks",
-          "Document intake",
-          "Evidence mapping",
-          "AI workflow review",
-          "Audience and marketability research"
-        ],
-        "serviceType": [
-          "Public record briefings",
-          "Policy and rule checks",
-          "Document intake and evidence mapping",
-          "AI workflow reviews",
-          "Audience and marketability research"
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://fieldnoteciviclabs.com/#website",
+            "name": "Field Note Civic Labs",
+            "url": "https://fieldnoteciviclabs.com/",
+            "description": "Practical AI help for records, paperwork, and workflows.",
+            "inLanguage": "en-CA",
+            "publisher": {
+              "@id": "https://fieldnoteciviclabs.com/#practice"
+            }
+          },
+          {
+            "@type": "ProfessionalService",
+            "@id": "https://fieldnoteciviclabs.com/#practice",
+            "name": "Field Note Civic Labs",
+            "url": "https://fieldnoteciviclabs.com/",
+            "email": "info@fieldnoteciviclabs.com",
+            "description": "Field Note Civic Labs helps people and small organizations turn scattered records, paperwork, and working knowledge into practical AI-ready workflows.",
+            "areaServed": {
+              "@type": "Place",
+              "name": "Vancouver, British Columbia"
+            },
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Vancouver",
+              "addressRegion": "BC",
+              "addressCountry": "CA"
+            },
+            "knowsAbout": [
+              "Civic technology",
+              "Information design",
+              "Records and paperwork workflows",
+              "Document intake",
+              "Workflow automation",
+              "AI workflow review"
+            ],
+            "serviceType": [
+              "Two-hour working sessions",
+              "AI-ready record cleanup",
+              "Workflow design",
+              "Lightweight internal tools",
+              "AI workflow reviews"
+            ],
+            "hasOfferCatalog": {
+              "@type": "OfferCatalog",
+              "name": "Field Note Civic Labs services",
+              "itemListElement": [
+                {
+                  "@type": "Offer",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "Two-hour working session",
+                    "description": "A focused session to map scattered records, clarify the workflow, identify realistic AI opportunities, and recommend one first build or cleanup step."
+                  }
+                },
+                {
+                  "@type": "Offer",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "AI-ready record cleanup",
+                    "description": "Structuring files, emails, PDFs, spreadsheets, notes, and decisions so they can be searched, reviewed, summarized, and reused."
+                  }
+                },
+                {
+                  "@type": "Offer",
+                  "itemOffered": {
+                    "@type": "Service",
+                    "name": "Lightweight workflow tools",
+                    "description": "Small working tools, automations, summaries, indexes, and knowledge bases that support human review."
+                  }
+                }
+              ]
+            }
+          }
         ]
       }
     </script>
   </head>
   <body>
     <header class="site-header">
-      <a class="brand" href="./" aria-label="Fieldnote Civic Labs home">
+      <a class="brand" href="./" aria-label="Field Note Civic Labs home">
         <span class="brand-mark" aria-hidden="true"></span>
-        <span>Fieldnote Civic Labs</span>
+        <span>Field Note Civic Labs</span>
       </a>
       <nav aria-label="Primary navigation">
-        <a href="#services">Services</a>
-        <a href="#audience">Who it helps</a>
+        <a href="#services">Help</a>
+        <a href="#session">Working session</a>
         <a href="#method">Method</a>
-        <a href="#projects">Work</a>
+        <a href="#projects">Field notes</a>
         <a href="#about">About</a>
         <a href="#contact">Contact</a>
       </nav>
@@ -73,16 +122,16 @@
     <main>
       <section class="hero">
         <div class="hero-copy">
-          <p class="eyebrow">Civic technology and workflow research</p>
-          <h1>Clear, source-backed tools for messy civic records and document workflows.</h1>
+          <p class="eyebrow">Records, paperwork, and practical AI workflows</p>
+          <h1>Practical help for scattered information and real-world work.</h1>
           <p class="lede">
-            Fieldnote Civic Labs helps local organizations, civic actors, and small teams turn public
-            records, forms, policies, evidence, and recurring admin work into briefings, checklists,
-            indexes, and lightweight tools a person can verify.
+            Field Note helps people and small organizations get a handle on records, paperwork,
+            files, emails, spreadsheets, PDFs, and working knowledge. Once the material is organized
+            enough, AI can help search it, summarize it, connect the dots, and support better workflows.
           </p>
           <div class="hero-actions" aria-label="Primary actions">
-            <a class="button primary" href="#contact">Project inquiries</a>
-            <a class="button secondary" href="#projects">See the work</a>
+            <a class="button primary" href="#session" data-track="hero_working_session">Start with a working session</a>
+            <a class="button secondary" href="#projects" data-track="hero_see_field_notes">See field notes</a>
           </div>
         </div>
         <div class="field-visual" aria-hidden="true">
@@ -98,88 +147,81 @@
 
       <section id="services" class="section">
         <div class="section-heading">
-          <p class="eyebrow">What we build</p>
-          <h2>Briefings, checks, indexes, reviews, and research loops for teams with scattered records.</h2>
+          <p class="eyebrow">How Field Note helps</p>
+          <h2>Make the information usable before asking AI to work with it.</h2>
           <p>
-            The work usually starts with public systems, forms, inboxes, spreadsheets, transcripts,
-            or policy documents. The output stays narrow, source-linked, and simple enough to review.
+            Most useful AI work starts before the tool is chosen. It starts with finding the records,
+            understanding how information moves, and deciding what a system should be trusted to do.
           </p>
         </div>
         <div class="service-grid">
           <article>
-            <h3>Public Record Briefings</h3>
+            <h3>Untangle Records and Paperwork</h3>
             <p>
-              Convert official records and local datasets into short updates with source links,
-              plain-language summaries, and notes about why each item was included.
+              Bring scattered files, emails, PDFs, spreadsheets, notes, and decisions into a structure
+              that can be searched, reviewed, and reused.
             </p>
           </article>
           <article>
-            <h3>Policy and Rule Checks</h3>
+            <h3>Map the Real Workflow</h3>
             <p>
-              Turn procurement, bylaw, or internal policy scenarios into structured checks with clear
-              reasons, reviewed inputs, and document-style outputs.
+              Trace how information actually moves through the work: where it starts, where it gets
+              stuck, who checks it, and what needs to stay human.
             </p>
           </article>
           <article>
-            <h3>Document Intake and Evidence Mapping</h3>
+            <h3>Find Practical AI Uses</h3>
             <p>
-              Organize files, transcripts, messages, exhibits, and claims so important facts can be
-              found, checked, and connected to source material.
+              Identify where AI can help with search, summary, comparison, intake, drafting, or
+              review without pretending it should run the whole process.
             </p>
           </article>
           <article>
-            <h3>AI Workflow Reviews</h3>
+            <h3>Build Early Results</h3>
             <p>
-              Identify where AI can safely help, where it should not be used, and how to test prompts,
-              outputs, and source-tracing before relying on results.
-            </p>
-          </article>
-          <article>
-            <h3>Audience and Marketability Research</h3>
-            <p>
-              Track public signals, peer examples, language patterns, and practical objections so
-              positioning decisions are based on reviewed evidence instead of guesswork.
+              Create small working tools, automations, summaries, indexes, and AI-ready knowledge
+              bases that prove whether a bigger system is worth building.
             </p>
           </article>
         </div>
       </section>
 
-      <section id="audience" class="section audience-section">
+      <section id="session" class="section audience-section">
         <div class="section-heading">
-          <p class="eyebrow">Who it helps</p>
-          <h2>Small teams that need clearer records, decisions, and review paths.</h2>
+          <p class="eyebrow">Start small</p>
+          <h2>Begin with a two-hour working session.</h2>
           <p>
-            Fieldnote Civic Labs is for people who need practical support with civic information,
-            policy requirements, evidence-heavy files, and careful AI use.
+            Bring a real problem and the material around it. The point is not a slide deck. The point
+            is to make the situation clearer and identify one useful next step.
           </p>
         </div>
         <div class="audience-grid">
           <article>
-            <h3>Local organizations and civic actors</h3>
+            <h3>What We Look At</h3>
             <p>
-              Groups tracking public records, local changes, permits, policies, or official updates
-              that need short briefings instead of more manual monitoring.
+              Records, files, inboxes, spreadsheets, forms, public data, internal notes, recurring
+              decisions, and the places where work gets delayed or repeated.
             </p>
           </article>
           <article>
-            <h3>Nonprofit, research, and advocacy teams</h3>
+            <h3>What You Leave With</h3>
             <p>
-              Small teams working with scattered documents, spreadsheets, transcripts, and public
-              sources that need evidence organized into reviewable outputs.
+              A plain map of the records and workflow, a short list of realistic AI opportunities,
+              and one recommended first build or cleanup step.
             </p>
           </article>
           <article>
-            <h3>Strata and dispute-adjacent workflows</h3>
+            <h3>What We Avoid</h3>
             <p>
-              People managing claims, exhibits, messages, rules, or timelines who need source mapping
-              and drafting support, not legal advice.
+              Hype, vague strategy, and tools that make sensitive or important work harder to check.
+              Some problems need cleanup before automation.
             </p>
           </article>
           <article>
-            <h3>Small businesses testing AI workflows</h3>
+            <h3>Where It Can Lead</h3>
             <p>
-              Operators who want to find where AI can help with research, intake, review, and
-              marketability without losing source checks or human decision points.
+              AI-ready record cleanup, a searchable knowledge base, a workflow helper, a lightweight
+              internal tool, or ongoing support if the early result proves useful.
             </p>
           </article>
         </div>
@@ -188,70 +230,70 @@
       <section id="method" class="section method-section">
         <div class="section-heading">
           <p class="eyebrow">Method</p>
-          <h2>Source first. Narrow scope. Human-checkable output.</h2>
+          <h2>Connect the dots before adding more tools.</h2>
           <p>
-            AI is used to help summarize, sort, compare, and test material after records are gathered.
-            It should not replace source retrieval, deterministic checks, or human judgment.
+            Field Note brings practical AI and information design to messy real-world work. The goal is
+            to make problems feel manageable, not to make AI feel mysterious.
           </p>
         </div>
         <ul class="method-list">
-          <li>Start with records, not prompts.</li>
-          <li>Filter before summarizing.</li>
-          <li>Link claims back to source material.</li>
-          <li>Flag weak matches and uncertainty.</li>
-          <li>Keep AI inside bounded review steps.</li>
-          <li>Leave final decisions to people.</li>
+          <li>Start with the records and the work people already do.</li>
+          <li>Find the structure hidden inside messy material.</li>
+          <li>Prepare information so AI can be useful and easier to check.</li>
+          <li>Use small early results to test whether the idea is worth extending.</li>
+          <li>Keep important decisions visible and human-owned.</li>
+          <li>Build only what proves useful.</li>
         </ul>
       </section>
 
       <section id="projects" class="section research-section">
         <div class="section-heading">
-          <p class="eyebrow">Working Models</p>
-          <h2>Applied work with public records, documents, and careful review.</h2>
+          <p class="eyebrow">Field Notes</p>
+          <h2>Applied work tied to actual records, workflows, and constraints.</h2>
           <p>
-            These projects are working models for a single pattern: retrieve or organize records first,
-            keep source material close, summarize narrowly, and leave important judgments to a person.
+            These are not inflated case studies. They are field notes from practical work and working
+            models: some client-adjacent, some experimental, all focused on turning scattered material
+            into something more usable.
           </p>
         </div>
         <div class="project-grid">
           <article>
-            <h3>Civic Early Warning</h3>
+            <h3>HR Working Knowledge Tool</h3>
             <p>
-              Address-specific monitoring of official municipal records. The working Vancouver slice
-              turns building permit data into weekly, source-backed briefings with radius filtering,
-              change detection, why-shown notes, and provenance warnings.
+              Disorganized HR material was converted into an AI-friendly working environment for a
+              real task. The result saved time on the immediate problem and showed how existing desktop
+              AI tools could become more useful when the underlying information was prepared properly.
             </p>
           </article>
           <article>
-            <h3>Procurement Policy Checks</h3>
+            <h3>Civic Records Monitor</h3>
             <p>
-              A rule-backed workflow for checking procurement scenarios against policy requirements.
-              It emphasizes explicit inputs, yes-or-no determinations, short reasons, and output that
-              can be reviewed later.
+              Public permit and civic records were shaped into a local briefing workflow, making it
+              easier to track changes, filter noise, summarize what mattered, and keep links back to
+              official sources.
             </p>
           </article>
           <article>
-            <h3>Evidence and Transcript Mapping</h3>
+            <h3>Evidence and Paperwork Assistant</h3>
             <p>
-              A document-heavy workflow for organizing claims, exhibits, transcripts, and supporting
-              records. It is not legal advice; it is evidence organization and source-linked drafting
-              support.
+              Scattered documents, emails, notes, timelines, and exhibits were organized into a more
+              usable structure for review, search, source mapping, and drafting support. This is
+              information organization, not legal advice.
+            </p>
+          </article>
+          <article>
+            <h3>Financial Statement Workflow</h3>
+            <p>
+              Statement PDFs and category records were processed into a cleaner review workflow for
+              reconciliation, categorization, and future reuse, reducing the amount of manual checking
+              needed each time.
             </p>
           </article>
           <article>
             <h3>Document Intake and Sorting</h3>
             <p>
-              Local workflow tests for watching incoming files, classifying material, routing documents
-              to review folders, and logging what changed, with stricter handling for sensitive or
-              unclear records.
-            </p>
-          </article>
-          <article>
-            <h3>Marketing Research Agent</h3>
-            <p>
-              An early workflow concept for continued marketability research: gather public-facing
-              examples, compare audience language, surface objections, and prepare notes a person can
-              use to refine service positioning.
+              Local workflow tests watch incoming files, classify material, route documents to review
+              folders, and log what changed, with stricter handling for sensitive or unclear records.
             </p>
           </article>
         </div>
@@ -260,33 +302,33 @@
       <section id="about" class="section split">
         <div>
           <p class="eyebrow">About</p>
-          <h2>Independent, lightweight, and practical.</h2>
+          <h2>A small practice for practical AI adoption.</h2>
         </div>
         <p>
-          The practice works with civic, nonprofit, strata, research, and small-business contexts where
-          information is scattered and time is limited. The emphasis is on careful research, simple
-          software, and documentation that a real person can maintain. Public-record tools should
-          prefer official sources, show why an item appears, and make uncertainty visible.
-          Fieldnote Civic Labs does not provide legal advice. Dispute-adjacent and tribunal-adjacent
-          work is limited to evidence organization, source mapping, drafting support, and workflow design.
+          Field Note Civic Labs is a small independent consulting practice in Vancouver, BC. It works
+          with small businesses, independent professionals, and community-minded organizations that
+          want help using their own information more effectively. The emphasis is on calm problem
+          solving, clear records, practical AI use, lightweight software where needed, and documentation
+          that a real person can maintain.
         </p>
       </section>
 
       <section id="contact" class="section contact-band">
         <div>
           <p class="eyebrow">Contact</p>
-          <h2>For inquiries, training registrations, and project discussions.</h2>
+          <h2>For working sessions, small builds, and project discussions.</h2>
         </div>
         <address>
-          <a href="mailto:info@fieldnoteciviclabs.com">info@fieldnoteciviclabs.com</a>
+          <a href="mailto:info@fieldnoteciviclabs.com" data-track="contact_email">info@fieldnoteciviclabs.com</a>
           <span>Vancouver, BC</span>
         </address>
       </section>
     </main>
 
     <footer>
-      <span>Fieldnote Civic Labs</span>
-      <span>Independent civic technology and workflow research</span>
+      <span>Field Note Civic Labs</span>
+      <span>Practical AI help for records, paperwork, and workflows</span>
+      <a href="./privacy.html">Privacy</a>
     </footer>
   </body>
 </html>

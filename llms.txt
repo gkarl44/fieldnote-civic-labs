@@ -1,30 +1,41 @@
-# Fieldnote Civic Labs
+# Field Note Civic Labs
 
-Fieldnote Civic Labs is a small independent civic technology and workflow research practice based in Vancouver, British Columbia.
+Field Note Civic Labs is a small independent consulting practice based in Vancouver, British Columbia.
 
-## What it does
+## Summary
 
-Fieldnote Civic Labs helps local organizations, civic actors, nonprofits, research teams, strata-adjacent groups, and small businesses turn scattered public records and document workflows into source-backed briefings, checklists, indexes, evidence maps, and lightweight tools a person can verify.
+Field Note helps people and small organizations turn scattered records, paperwork, and working knowledge into practical AI-ready workflows. The work starts with the material people already have: files, emails, notes, spreadsheets, PDFs, public data, decisions, and recurring workflow problems.
+
+AI is treated as a practical follow-up, not the starting point. Once information is organized enough, AI can help search it, summarize it, connect related material, compare documents, support review, and reduce repetitive administrative work.
+
+## Who it helps
+
+- Small business owners and independent professionals with scattered records or recurring paperwork.
+- Community-minded organizations that want practical AI help without a large software project.
+- People handling document-heavy intake, review, evidence, policies, public records, or internal working knowledge.
+- Teams that feel pressure to use AI but need help deciding where it is useful, safe, and worth building.
 
 ## Core services
 
-- Public record briefings: source-linked summaries of official records and local datasets.
-- Policy and rule checks: structured review of procurement, bylaw, or internal policy scenarios with explicit inputs and reasons.
-- Document intake and evidence mapping: organization of files, transcripts, messages, exhibits, claims, and supporting records.
-- AI workflow reviews: narrow testing of where AI can help with summarizing, sorting, comparing, and review while keeping human judgment in place.
-- Audience and marketability research: continued research into public signals, peer examples, language patterns, objections, and positioning notes.
+- Two-hour working sessions: map the records, workflow, decision points, risks, and one realistic next step.
+- AI-ready record cleanup: structure files, emails, PDFs, spreadsheets, notes, and decisions so they can be searched, reviewed, and reused.
+- Workflow design: trace how information actually moves through a real process and identify where work gets delayed or repeated.
+- Practical AI use review: identify where AI can help with search, summary, comparison, intake, drafting, or review while keeping human decision points visible.
+- Lightweight internal tools: small working tools, automations, summaries, indexes, and knowledge bases that prove whether a bigger system is worth building.
 
-## Working models
+## Field notes and working examples
 
-- Civic Early Warning: address-specific monitoring of official municipal records, including building permit briefings.
-- Procurement Policy Checks: rule-backed workflow checks for policy requirements.
-- Evidence and Transcript Mapping: source-linked organization for document-heavy and dispute-adjacent work.
-- Document Intake and Sorting: local workflow tests for classifying and routing incoming files.
-- Marketing Research Agent: early workflow concept for continued marketability research and positioning support.
+- HR Working Knowledge Tool: disorganized HR material converted into an AI-friendly working environment for a real task, saving time and showing how existing desktop AI tools could be used more effectively.
+- Civic Records Monitor: public permit and civic records shaped into a local briefing workflow with filtering, summaries, and links back to official sources.
+- Evidence and Paperwork Assistant: documents, emails, notes, timelines, and exhibits organized for review, search, source mapping, and drafting support. This is information organization, not legal advice.
+- Financial Statement Workflow: statement PDFs and category records processed into a cleaner review workflow for reconciliation, categorization, and future reuse.
+- Document Intake and Sorting: local workflow tests that watch incoming files, classify material, route documents to review folders, and log what changed.
 
 ## Boundaries
 
-The practice does not provide legal advice. Dispute-adjacent and tribunal-adjacent work is limited to evidence organization, source mapping, drafting support, and workflow design. AI is used inside bounded review steps and should not replace source retrieval, deterministic checks, or human judgment.
+Field Note Civic Labs does not provide legal advice. Dispute-adjacent and tribunal-adjacent work is limited to information organization, source mapping, drafting support, and workflow design.
+
+AI should support human review. It should not hide the basis for important decisions, replace source checking, or make sensitive work harder to verify.
 
 ## Contact
 

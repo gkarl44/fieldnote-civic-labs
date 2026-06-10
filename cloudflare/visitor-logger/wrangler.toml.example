@@ -1,0 +1,14 @@
+name = "fieldnote-visitor-logger"
+main = "worker.js"
+compatibility_date = "2026-06-04"
+
+routes = [
+  { pattern = "fieldnoteciviclabs.com/*", zone_name = "fieldnoteciviclabs.com" }
+]
+
+assets = { directory = "../.." }
+
+[[d1_databases]]
+binding = "DB"
+database_name = "fieldnote_visitor_log"
+database_id = "replace-with-cloudflare-d1-database-id"
