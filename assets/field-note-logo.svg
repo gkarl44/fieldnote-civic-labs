@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Field Note Civic Labs logo</title>
+  <desc id="desc">A warm gold field-note mark with a simple black map grid.</desc>
+  <rect width="512" height="512" rx="96" fill="#fbfaf5"/>
+  <circle cx="256" cy="256" r="168" fill="#c48a2c" stroke="#172126" stroke-width="28"/>
+  <path d="M256 96v320M96 256h320" stroke="#172126" stroke-width="24" stroke-linecap="round"/>
+  <path d="M256 112c-50 40-76 88-76 144s26 104 76 144M256 112c50 40 76 88 76 144s-26 104-76 144" fill="none" stroke="#172126" stroke-width="10" stroke-linecap="round" opacity=".42"/>
+</svg>
