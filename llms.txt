@@ -4,36 +4,37 @@ Field Note Civic Labs is a small independent consulting practice based in Vancou
 
 ## Summary
 
-Field Note helps people and small organizations turn scattered records, paperwork, and working knowledge into practical AI-ready workflows. The work starts with the material people already have: files, emails, notes, spreadsheets, PDFs, public data, decisions, and recurring workflow problems.
+Field Note Civic Labs helps small teams use AI on real administrative work, on-site or remotely: records, documents, spreadsheets, email, and recurring review tasks.
 
-AI is treated as a practical follow-up, not the starting point. Once information is organized enough, AI can help search it, summarize it, connect related material, compare documents, support review, and reduce repetitive administrative work.
+The work usually starts with a recurring task the team already finds slow or hard to repeat. Work can happen on-site or remotely.
+
+Field Note helps map the work, organize the material, decide where AI can help, and leave behind a simple process the team can run again.
 
 ## Who it helps
 
-- Small business owners and independent professionals with scattered records or recurring paperwork.
+- Small teams with scattered records, recurring paperwork, or manual review tasks.
+- Small business owners and independent professionals with document-heavy work.
 - Community-minded organizations that want practical AI help without a large software project.
-- People handling document-heavy intake, review, evidence, policies, public records, or internal working knowledge.
-- Teams that feel pressure to use AI but need help deciding where it is useful, safe, and worth building.
+- People handling intake, review, policies, public records, or internal working knowledge.
 
-## Core services
+## What Field Note does
 
-- Two-hour working sessions: map the records, workflow, decision points, risks, and one realistic next step.
-- AI-ready record cleanup: structure files, emails, PDFs, spreadsheets, notes, and decisions so they can be searched, reviewed, and reused.
-- Workflow design: trace how information actually moves through a real process and identify where work gets delayed or repeated.
-- Practical AI use review: identify where AI can help with search, summary, comparison, intake, drafting, or review while keeping human decision points visible.
-- Lightweight internal tools: small working tools, automations, summaries, indexes, and knowledge bases that prove whether a bigger system is worth building.
+- Choose a starting workflow and map the files, emails, decisions, people, dates, and review steps around it.
+- Name the thing being tracked: a client file, invoice, issue, request, record, project, or deadline.
+- Track status clearly: what arrived, what was reviewed, what needs a decision, and what source each answer came from.
+- Make the work reusable with prompts, checklists, review notes, spreadsheets, small scripts, or lightweight tools where useful.
 
-## Field notes and working examples
+## Representative project areas
 
-- HR Working Knowledge Tool: disorganized HR material converted into an AI-friendly working environment for a real task, saving time and showing how existing desktop AI tools could be used more effectively.
-- Civic Records Monitor: public permit and civic records shaped into a local briefing workflow with filtering, summaries, and links back to official sources.
-- Evidence and Paperwork Assistant: documents, emails, notes, timelines, and exhibits organized for review, search, source mapping, and drafting support. This is information organization, not legal advice.
-- Financial Statement Workflow: statement PDFs and category records processed into a cleaner review workflow for reconciliation, categorization, and future reuse.
-- Document Intake and Sorting: local workflow tests that watch incoming files, classify material, route documents to review folders, and log what changed.
+- Records Monitoring: watch public or internal records, filter out noise, and show what changed.
+- Document Intake and Sorting: sort incoming files, preserve originals, flag uncertain items, and keep a record of what changed.
+- Financial Statement and Tax Workflows: clean up recurring statement or CSV review, spot duplicates or exceptions, and produce a short review report.
+- Small Strata Governance Tools: help small strata councils keep recurring governance work clearer. This is governance workflow support, not legal advice.
+- AI Opportunity Review: turn a loose AI idea into a short practical brief before a team commits budget or time.
 
 ## Boundaries
 
-Field Note Civic Labs does not provide legal advice. Dispute-adjacent and tribunal-adjacent work is limited to information organization, source mapping, drafting support, and workflow design.
+Small strata governance tools are governance workflow support, not legal advice.
 
 AI should support human review. It should not hide the basis for important decisions, replace source checking, or make sensitive work harder to verify.
 
